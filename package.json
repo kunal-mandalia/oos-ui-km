@@ -1,0 +1,17 @@
+{
+  "name": "@90poe/oos-ui",
+  "version": "0.0.3",
+  "main": "index.js",
+  "repository": "https://github.com/90poe/oos-ui.git",
+  "author": "Kunal Mandalia <kunal.v.mandalia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "antd": "^3.8.0"
+  },
+  "devDependencies": {
+    "less": "2.7.1"
+  },
+  "scripts": {
+    "build": "lessc index.less build/index.css"
+  }
+}
