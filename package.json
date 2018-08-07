@@ -1,8 +1,8 @@
 {
-  "name": "@90poe/oos-ui",
-  "version": "0.0.3",
+  "name": "oos-ui-km",
+  "version": "0.1.0",
   "main": "index.js",
-  "repository": "https://github.com/90poe/oos-ui.git",
+  "repository": "https://github.com/kunal-mandalia/oos-ui-km.git",
   "author": "Kunal Mandalia <kunal.v.mandalia@gmail.com>",
   "license": "MIT",
   "dependencies": {
